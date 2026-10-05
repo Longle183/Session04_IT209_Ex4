@@ -1,0 +1,10 @@
+# Sensitive and secret files
+credentials.txt
+*.env
+*.key
+*.pem
+
+# Dependencies & build
+node_modules/
+dist/
+.DS_Store
